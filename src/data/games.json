@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "Cien años de soledad",
+      "description": "Una saga familiar que narra la historia de la familia Buendía a lo largo de siete generaciones en el ficticio pueblo de Macondo.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41VQ5XrMKgL._SX321_BO1,204,203,200_.jpg",
+      "created_at": "2023-06-19T16:25:32.115Z",
+      "srcId": "data"
+    },
+    {
+      "id": "2",
+      "title": "Pedro Páramo",
+      "description": "Una novela considerada como una de las obras cumbre de la literatura hispanoamericana. Cuenta la historia de Juan Preciado en su búsqueda de su padre Pedro Páramo en el pueblo de Comala.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51EX07we9eL._SX318_BO1,204,203,200_.jpg",
+      "created_at": "2023-06-19T16:53:20.315Z",
+      "srcId": "data"
+    },
+    {
+      "id": "3",
+      "title": "Aura",
+      "description": "Una novela corta que explora los temas del amor, la obsesión y la identidad. Ambientada en la Ciudad de México, sigue la historia de Felipe Montero y su relación con la misteriosa Aura.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41bPS3QWfWL._SX318_BO1,204,203,200_.jpg",
+      "created_at": "2023-06-21T14:17:17.130Z",
+      "srcId": "data"
+    }
+  ]
+}
